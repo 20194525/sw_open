@@ -99,5 +99,13 @@
 > |@@|방금 실행한 매크로 실행| 
 > |숫자 + @a|a매크로 숫자만큼 실행|
 
+------
 
+**참고한 인터넷 사이트**
+
+<https://wikidocs.net/book/2370>
+
+<http://aboutmadlife.blogspot.com/2014/09/linux-vi-macro.html>
+
+<https://jmoon.co.kr/38>
 
